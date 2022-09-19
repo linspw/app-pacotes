@@ -1,4 +1,4 @@
-# buser-pacotes
+# App Pacotes
 
 ## Project setup
 ```
